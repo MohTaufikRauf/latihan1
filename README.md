@@ -14,3 +14,5 @@
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka *CMD* atau *PowerShell*, kemudian ketik perintah
 
 ``git --version``
+
+![Screenshot 2020-10-18 141255](https://user-images.githubusercontent.com/72906441/96361435-d810cb80-114f-11eb-947a-060390174a7a.png)
