@@ -16,3 +16,16 @@
 ``git --version``
 
 ![Screenshot 2020-10-18 141255](https://user-images.githubusercontent.com/72906441/96361435-d810cb80-114f-11eb-947a-060390174a7a.png)
+
+
+### Menambahkan Global Config
+* Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi ``user.name dan user.email``
+* konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
+
+* apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah `git commit`
+
+* Config Global Repository
+
+`$ git config --global user.name “nama_user"`
+
+`$ git config --global user.email “nama_user”`
