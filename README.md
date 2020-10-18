@@ -29,3 +29,42 @@
 `$ git config --global user.name “nama_user"`
 
 `$ git config --global user.email “nama_user”`
+
+![Screenshot 2020-10-18 141332](https://user-images.githubusercontent.com/72906441/96361567-05aa4480-1151-11eb-93a8-cad1f572bac9.png)
+
+### Perintah Dasar Git
+
+* `git init`, perintah untuk membuat repository local
+* `git add`, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
+* `git commit`, perintah untuk menyimpan perubahan kedalam database git.
+* `git push -u origin master`, perintah untuk mengirim perubahan pada repository local menuju server repository.
+* `git clone [url]`, perintah untuk membuat working directory yang diambil dari repositry sever.
+* `git remote add origin [url]`, perintah untuk menambahkan remote server/reopsitory server pada local repositry ``(working directory)``
+* `git pull`, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+
+
+### Membuat Reposiory Local
+
+* Buka direktory aktif, misal: *d:\labs_pemrograman1* (buka menggunakan Windows Explorer)
+* klik kanan pada direktory aktif tersebut, dan pilih menu *Git Bash*, sehingga muncul git bash commad
+* Buat direktory project praktikum pertama dengan nama *latihan1*
+``$ mkdir latihan1
+$ cd latihan1``
+* Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah *cd* ``(change directory)``
+* direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
+
+
+### Membuat Reposiory Local
+
+* Jalankan perintah *git init*, untuk membuat repository local.
+`$ git init`
+* Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .*git*
+* Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.
+
+
+### Menambahkan File baru pada repository
+
+* Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+* disini kita akan coba buat satu file bernama README.md (text file)
+`$ echo “# Latihan 1” >> README.md`
+* File *README.md* berhasil dibuat.
