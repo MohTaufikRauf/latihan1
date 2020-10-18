@@ -64,6 +64,7 @@ $ cd latihan1``
 * Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.
 
 
+![Screenshot 2020-10-18 145554](https://user-images.githubusercontent.com/72906441/96362066-e8777500-1154-11eb-9759-c5ea58aae306.png)
 
 ### Menambahkan File baru pada repository
 
