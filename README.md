@@ -143,3 +143,11 @@ $ cd latihan1``
 
 
 ![Screenshot 2020-10-18 154320](https://user-images.githubusercontent.com/72906441/96363127-7571fc80-115c-11eb-96dd-1112d4797d36.png)
+
+
+### Clone Repository
+
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+* Untuk melakukan cloning, gunakan perintah `git clone [url]`
+
+
