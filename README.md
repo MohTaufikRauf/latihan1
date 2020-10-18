@@ -54,6 +54,7 @@ $ cd latihan1``
 * direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
 
 
+![Screenshot 2020-10-18 145520](https://user-images.githubusercontent.com/72906441/96361989-55d6d600-1154-11eb-97fa-c1ef65d1d057.png)
 
 ### Membuat Reposiory Local
 
@@ -61,6 +62,7 @@ $ cd latihan1``
 `$ git init`
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .*git*
 * Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.
+
 
 
 ### Menambahkan File baru pada repository
