@@ -140,3 +140,6 @@ $ cd latihan1``
 
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
+
+
+![Screenshot 2020-10-18 154320](https://user-images.githubusercontent.com/72906441/96363127-7571fc80-115c-11eb-96dd-1112d4797d36.png)
