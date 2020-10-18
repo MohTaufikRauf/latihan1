@@ -72,3 +72,6 @@ $ cd latihan1``
 * disini kita akan coba buat satu file bernama README.md (text file)
 `$ echo “# Latihan 1” >> README.md`
 * File *README.md* berhasil dibuat.
+
+
+![Screenshot 2020-10-18 145705](https://user-images.githubusercontent.com/72906441/96362129-56bc3780-1155-11eb-9fdb-5e4774f8f7be.png)
