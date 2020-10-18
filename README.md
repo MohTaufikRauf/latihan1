@@ -54,6 +54,7 @@ $ cd latihan1``
 * direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
 
 
+
 ### Membuat Reposiory Local
 
 * Jalankan perintah *git init*, untuk membuat repository local.
