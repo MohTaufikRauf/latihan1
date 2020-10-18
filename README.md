@@ -151,3 +151,12 @@ $ cd latihan1``
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
 
+![Screenshot 2020-10-18 161507](https://user-images.githubusercontent.com/72906441/96363266-60e23400-115d-11eb-895f-0e0aa1da5406.png)
+
+
+### Kegunaan file README.md
+
+* Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
+* Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
+* Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
+* untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/masteringmarkdown/
