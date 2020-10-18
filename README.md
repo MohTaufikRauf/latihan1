@@ -84,3 +84,6 @@ $ cd latihan1``
 * File *README.md* berhasil ditambahkan.
 
 
+![Screenshot 2020-10-18 145747](https://user-images.githubusercontent.com/72906441/96362233-05f90e80-1156-11eb-99e1-f34d491360f0.png)
+
+
