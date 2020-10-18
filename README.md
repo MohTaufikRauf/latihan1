@@ -75,3 +75,12 @@ $ cd latihan1``
 
 
 ![Screenshot 2020-10-18 145705](https://user-images.githubusercontent.com/72906441/96362129-56bc3780-1155-11eb-9fdb-5e4774f8f7be.png)
+
+
+### Menambahkan File baru pada repository
+
+* Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+`$ git add README.md`
+* File *README.md* berhasil ditambahkan.
+
+
