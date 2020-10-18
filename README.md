@@ -92,3 +92,6 @@ $ cd latihan1``
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
+
+
+![Screenshot 2020-10-18 145817](https://user-images.githubusercontent.com/72906441/96362265-56706c00-1156-11eb-9278-51c528868fb1.png)
