@@ -95,3 +95,13 @@ $ cd latihan1``
 
 
 ![Screenshot 2020-10-18 145817](https://user-images.githubusercontent.com/72906441/96362265-56706c00-1156-11eb-9278-51c528868fb1.png)
+
+
+### Membuat repository server
+
+* Server reopsitory yang akan kita gunakan adalah (http://github.com)
+* Anda harus membuat akun terlebih dahulu.
+* Pada laman github, klik tombol start a project, atau
+* Dari menu (icon +) klik New Repository
+
+
