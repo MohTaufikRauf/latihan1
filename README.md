@@ -1,4 +1,11 @@
 # latihan1
+
+Nama : Moh. taufik rauf
+
+NIM : 312010151
+
+Kelas : TI.20.A.1
+
 #   # PENGGUNAAN GIT 
 
 
